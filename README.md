@@ -1,13 +1,6 @@
-<h1 align="center">Backend Developer</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="350" />
-</p>
-
-<p align="center">
-  <b>Building logic, APIs, and systems that work behind the scenes.</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</p>
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+https://media.giphy.com/media/TnV7e3p4FHB04/giphy.gif
+https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
+https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif
+https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif
