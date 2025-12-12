@@ -1,47 +1,32 @@
-# Hi, I'm Kali User 👋
+<h1 align="center">Hi, I'm Kali 👋</h1>
 
-Welcome to my GitHub profile!  
-I’m a passionate programmer who loves working with C, Python, Linux, and system-level programming.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
----
-
-## 🧰 Languages & Tools
-- C / C++
-- Python
-- Linux / Shell Scripting
-- Git & GitHub
-- SQL
-- Data Structures & Algorithms
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 📌 About Me
-- 🔭 I’m currently working on: System programming & OS concepts  
-- 🌱 Learning: Networking (TCP/UDP), IPC, Shared Memory, Message Queues  
-- 💬 Ask me about: C, Python, OS, Linux commands  
-- 📫 Reach me at: **yourmail@example.com**
+<p align="center">
+  <b>Coder • Linux Explorer • Backend Learner</b>
+</p>
 
 ---
 
-## 🗂️ Featured Projects
-### 🔹 IPC & OS Concepts in C  
-A collection of programs demonstrating pipes, FIFOs, message queues, shared memory, TCP/UDP.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-### 🔹 Python Utility Scripts  
-Handy tools for automation and string/file operations.
-
-### 🔹 Linux Practice Repository  
-All my shell scripts, experiments, tutorials.
-
----
-
-## 📊 GitHub Stats (Classic Style)
-![Kali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="150"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourname  
-- Email: yourmail@example.com
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
+</p>
